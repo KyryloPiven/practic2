@@ -13,6 +13,7 @@
 @import url('./blog.css');
 @import url('./team.css');
 @import url('./request.css');
+@import url('./bacemand.css');
 
 :root {
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
