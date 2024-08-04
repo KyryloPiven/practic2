@@ -1,3 +1,55 @@
-.cases {
-    background-color: #12cde2;
+.container {
+    max-width: 1682px;
+    padding-top: 50px;
+    padding-left: 28px;
+    padding-right: 28px;
+    padding-bottom: 47px;
 }
+
+.cases {
+    background-color: E5E5E5;
+
+}
+
+.cases-text {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.64736;
+    text-align: center;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.cases-title {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    font-size: 38px;
+    line-height: 1.26316;
+    text-align: center;
+    color: #333;
+    margin-bottom: 33px;
+}
+
+.cases-smalltext {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.56444;
+    text-align: center;
+    color: #333;
+    margin-bottom: 39px;
+}
+
+.cases-list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 7px 8px;
+}
+
+.cases-item {
+    background-color: grey;
+}
+
+.cases-img {}
