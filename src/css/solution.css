@@ -1,3 +1,49 @@
 .solution {
-    background-color: blue;
+    max-width: 1360px;
+}
+
+.solution-container {
+    display: flex;
+}
+
+.solution-cont-right {
+    background: #28a745;
+    padding-top: 84px;
+    padding-left: 30px;
+}
+
+.solution-before-title {
+    font-weight: 400;
+        font-size: 20px;
+        line-height: 1.64736;
+        color: #fff;
+        margin-bottom: 5px;
+}
+
+.solution-title {
+    font-weight: 300;
+        font-size: 38px;
+        line-height: 1.26316;
+        color: #fff;
+        margin-bottom: 26px;
+}
+
+.solution-text {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.56444;
+    color: #fff;
+    margin-bottom: 17px;
+}
+
+.solution-button {
+    font-weight: 400;
+        font-size: 18px;
+        line-height: 1.56444;
+        color: #fff;
+        border: 1px solid #fff;
+            border-radius: 5px;
+            width: 167px;
+            height: 50px;
+            background: #28a745;
 }
